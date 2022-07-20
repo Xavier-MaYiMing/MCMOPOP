@@ -25,7 +25,7 @@ The multi-category multi-objective path optimization problems aims to determine 
 
 #### Example
 
-![](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the multi-category multi-objective path optimization problem\MCMOPOP.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-one-to-all-multi-category-mu/blob/main/MCMOPOP.png)
 
 The red number associated with each arc is the additive weight, and the green number is the multiplicative weight.
 
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     1: [{'path': [0, 1], 'objective': [62, 0.9]}], 
     2: [
         {'path': [0, 2], 'objective': [44, 0.7]}, 
-        {'path': [0, 1, 2], 'objective': [95, 0.7200000000000001]}，
+        {'path': [0, 1, 2], 'objective': [95, 0.72]}，
     ], 
     3: [{'path': [0, 3], 'objective': [67, 0.6]}], 
     4: [
