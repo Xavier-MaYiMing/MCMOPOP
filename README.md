@@ -1,7 +1,5 @@
 ### The Ripple-Spreading Algorithm for the one-to-all Multi-Category Multi-Objective Path Optimization Problem
 
-##### Reference: Ma Y M, Hu X B, Zhou H. A deterministic and nature-inspired algorithm for the fuzzy multi-objective path optimization problem[C]. Complex & Intelligent Systems, 2022, accepted.
-
 The multi-category multi-objective path optimization problems aims to determine all Pareto-optimal paths from one node to all other nodes on a graph with multiple additive and multiplicative weights.
 
 | Variables     | Meaning                                                      |
